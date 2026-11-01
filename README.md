@@ -220,4 +220,4 @@ Free ISO Burner is the complete free version of the software, with all features 
 Ready to burn your ISO images effortlessly? **Download Free ISO Burner now and enjoy a hassle-free experience!**
 
 ---
-**Last updated:** 2026-10-31 22:11:25 UTC
+**Last updated:** 2026-11-01 01:43:45 UTC
